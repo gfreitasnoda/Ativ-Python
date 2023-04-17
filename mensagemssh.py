@@ -1,0 +1,1 @@
+print("Este arquivo foi executado via ssh por uma aplicação em Java")
